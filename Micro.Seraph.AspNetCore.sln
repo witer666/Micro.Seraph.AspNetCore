@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Service", "Micro.Seraph.AspNetCore.Service\Micro.Seraph.AspNetCore.Service.csproj", "{28F29C48-8A19-48A5-A7ED-7B7DB24CE2A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Entity", "Micro.Seraph.AspNetCore.Entity\Micro.Seraph.AspNetCore.Entity.csproj", "{1F7D4E8D-376D-4825-9419-4BFB75A37B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Context", "Micro.Seraph.AspNetCore.Context\Micro.Seraph.AspNetCore.Context.csproj", "{E29C464C-F9DA-4BBE-A1EB-FB82B415F357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Common", "Micro.Seraph.AspNetCore.Common\Micro.Seraph.AspNetCore.Common.csproj", "{32FF83CE-C96C-4DD3-A689-D833F2A4CEF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Api", "Micro.Seraph.AspNetCore.Api\Micro.Seraph.AspNetCore.Api.csproj", "{5B033ED9-5D7F-401C-9A48-E5EB19125F58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Test", "Micro.Seraph.AspNetCore.Test\Micro.Seraph.AspNetCore.Test.csproj", "{87847926-8979-4F50-ABBF-485533FB075E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F29C48-8A19-48A5-A7ED-7B7DB24CE2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F29C48-8A19-48A5-A7ED-7B7DB24CE2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F29C48-8A19-48A5-A7ED-7B7DB24CE2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F29C48-8A19-48A5-A7ED-7B7DB24CE2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F7D4E8D-376D-4825-9419-4BFB75A37B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7D4E8D-376D-4825-9419-4BFB75A37B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7D4E8D-376D-4825-9419-4BFB75A37B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7D4E8D-376D-4825-9419-4BFB75A37B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E29C464C-F9DA-4BBE-A1EB-FB82B415F357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29C464C-F9DA-4BBE-A1EB-FB82B415F357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29C464C-F9DA-4BBE-A1EB-FB82B415F357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29C464C-F9DA-4BBE-A1EB-FB82B415F357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FF83CE-C96C-4DD3-A689-D833F2A4CEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FF83CE-C96C-4DD3-A689-D833F2A4CEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FF83CE-C96C-4DD3-A689-D833F2A4CEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FF83CE-C96C-4DD3-A689-D833F2A4CEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B033ED9-5D7F-401C-9A48-E5EB19125F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B033ED9-5D7F-401C-9A48-E5EB19125F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B033ED9-5D7F-401C-9A48-E5EB19125F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B033ED9-5D7F-401C-9A48-E5EB19125F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87847926-8979-4F50-ABBF-485533FB075E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87847926-8979-4F50-ABBF-485533FB075E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87847926-8979-4F50-ABBF-485533FB075E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87847926-8979-4F50-ABBF-485533FB075E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E101E9D-ABE9-4BBC-B3C8-85EDA288FA16}
+	EndGlobalSection
+EndGlobal

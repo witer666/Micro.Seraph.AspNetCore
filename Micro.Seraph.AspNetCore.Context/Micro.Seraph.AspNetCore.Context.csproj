@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.EntityFrameworkCore" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Micro.Seraph.AspNetCore.Common\Micro.Seraph.AspNetCore.Common.csproj" />
+    <ProjectReference Include="..\Micro.Seraph.AspNetCore.Entity\Micro.Seraph.AspNetCore.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

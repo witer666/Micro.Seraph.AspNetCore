@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CxlgYF/tgDxbaD9YuM7D137pqw4J9K4kJUvufwPJUuo=",
+  "Source": "Micro.Seraph.AspNetCore.Api",
+  "BasePath": "_content/Micro.Seraph.AspNetCore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

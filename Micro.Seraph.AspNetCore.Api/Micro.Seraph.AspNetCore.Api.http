@@ -1,0 +1,6 @@
+@Micro.Seraph.AspNetCore.Api_HostAddress = http://localhost:5183
+
+GET {{Micro.Seraph.AspNetCore.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Micro.Seraph.AspNetCore.Api.props" />
+</Project>
