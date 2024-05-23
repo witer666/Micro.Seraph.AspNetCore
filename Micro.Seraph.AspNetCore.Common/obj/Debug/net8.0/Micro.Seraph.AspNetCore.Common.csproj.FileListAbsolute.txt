@@ -1,6 +1,7 @@
 D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Common\bin\Debug\net8.0\Micro.Seraph.AspNetCore.Common.deps.json
 D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Common\bin\Debug\net8.0\Micro.Seraph.AspNetCore.Common.dll
 D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Common\bin\Debug\net8.0\Micro.Seraph.AspNetCore.Common.pdb
+D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Common\obj\Debug\net8.0\Micro.Seraph.AspNetCore.Common.csproj.AssemblyReference.cache
 D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Common\obj\Debug\net8.0\Micro.Seraph.AspNetCore.Common.GeneratedMSBuildEditorConfig.editorconfig
 D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Common\obj\Debug\net8.0\Micro.Seraph.AspNetCore.Common.AssemblyInfoInputs.cache
 D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Common\obj\Debug\net8.0\Micro.Seraph.AspNetCore.Common.AssemblyInfo.cs
@@ -9,4 +10,3 @@ D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Mic
 D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Common\obj\Debug\net8.0\refint\Micro.Seraph.AspNetCore.Common.dll
 D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Common\obj\Debug\net8.0\Micro.Seraph.AspNetCore.Common.pdb
 D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Common\obj\Debug\net8.0\ref\Micro.Seraph.AspNetCore.Common.dll
-D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Common\obj\Debug\net8.0\Micro.Seraph.AspNetCore.Common.csproj.AssemblyReference.cache

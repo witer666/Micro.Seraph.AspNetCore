@@ -1,12 +1,11 @@
 ﻿using Micro.Seraph.AspNetCore.Entity;
-using Micro.Seraph.AspNetCore.Service;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Micro.Seraph.AspNetCore.Api.Controllers
 {
     [ApiController]
     [Route("[controller]/[action]")]
-    public class SampleController : BaseController
+    public class SampleController : AppController
     {
         [HttpPut(Name = "Add")]
         //public IActionResult Add([FromServices] SampleEntity entity)
@@ -34,7 +33,7 @@ namespace Micro.Seraph.AspNetCore.Api.Controllers
         //public IActionResult Update([FromServices] SampleEntity entity)
         public IActionResult Update()
         {
-            SampleEntity entity = new SampleEntity() { Id = 7, Title = "Update data"};
+            SampleEntity entity = new SampleEntity() { Id = 7, Title = "Update data" };
             int intRes = (int)this.InvokeAction(new object[] { entity });
             return Ok(intRes);
         }

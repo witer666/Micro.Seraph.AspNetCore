@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Service", "Micro.Seraph.AspNetCore.Service\Micro.Seraph.AspNetCore.Service.csproj", "{28F29C48-8A19-48A5-A7ED-7B7DB24CE2A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Micro.Seraph.AspNetCore.Service", "Micro.Seraph.AspNetCore.Service\Micro.Seraph.AspNetCore.Service.csproj", "{28F29C48-8A19-48A5-A7ED-7B7DB24CE2A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Entity", "Micro.Seraph.AspNetCore.Entity\Micro.Seraph.AspNetCore.Entity.csproj", "{1F7D4E8D-376D-4825-9419-4BFB75A37B18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Micro.Seraph.AspNetCore.Entity", "Micro.Seraph.AspNetCore.Entity\Micro.Seraph.AspNetCore.Entity.csproj", "{1F7D4E8D-376D-4825-9419-4BFB75A37B18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Context", "Micro.Seraph.AspNetCore.Context\Micro.Seraph.AspNetCore.Context.csproj", "{E29C464C-F9DA-4BBE-A1EB-FB82B415F357}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Micro.Seraph.AspNetCore.Context", "Micro.Seraph.AspNetCore.Context\Micro.Seraph.AspNetCore.Context.csproj", "{E29C464C-F9DA-4BBE-A1EB-FB82B415F357}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Common", "Micro.Seraph.AspNetCore.Common\Micro.Seraph.AspNetCore.Common.csproj", "{32FF83CE-C96C-4DD3-A689-D833F2A4CEF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Micro.Seraph.AspNetCore.Common", "Micro.Seraph.AspNetCore.Common\Micro.Seraph.AspNetCore.Common.csproj", "{32FF83CE-C96C-4DD3-A689-D833F2A4CEF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Api", "Micro.Seraph.AspNetCore.Api\Micro.Seraph.AspNetCore.Api.csproj", "{5B033ED9-5D7F-401C-9A48-E5EB19125F58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Micro.Seraph.AspNetCore.Api", "Micro.Seraph.AspNetCore.Api\Micro.Seraph.AspNetCore.Api.csproj", "{5B033ED9-5D7F-401C-9A48-E5EB19125F58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Test", "Micro.Seraph.AspNetCore.Test\Micro.Seraph.AspNetCore.Test.csproj", "{87847926-8979-4F50-ABBF-485533FB075E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Micro.Seraph.AspNetCore.Test", "Micro.Seraph.AspNetCore.Test\Micro.Seraph.AspNetCore.Test.csproj", "{87847926-8979-4F50-ABBF-485533FB075E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Controllers", "Micro.Seraph.AspNetCore.Controllers\Micro.Seraph.AspNetCore.Controllers.csproj", "{4D8AFFBF-0215-4A99-9F8A-AED93C6D419A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.Seraph.AspNetCore.Actions", "Micro.Seraph.AspNetCore.Actions\Micro.Seraph.AspNetCore.Actions.csproj", "{B3866EF4-AB3D-416D-BE88-7AA2FD50E11B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{87847926-8979-4F50-ABBF-485533FB075E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87847926-8979-4F50-ABBF-485533FB075E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87847926-8979-4F50-ABBF-485533FB075E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8AFFBF-0215-4A99-9F8A-AED93C6D419A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8AFFBF-0215-4A99-9F8A-AED93C6D419A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8AFFBF-0215-4A99-9F8A-AED93C6D419A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8AFFBF-0215-4A99-9F8A-AED93C6D419A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3866EF4-AB3D-416D-BE88-7AA2FD50E11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3866EF4-AB3D-416D-BE88-7AA2FD50E11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3866EF4-AB3D-416D-BE88-7AA2FD50E11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3866EF4-AB3D-416D-BE88-7AA2FD50E11B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,5 +1,6 @@
 ﻿using Micro.Seraph.AspNetCore.Entity;
 using Micro.Seraph.AspNetCore.Service;
+using Micro.Seraph.AspNetCore.Actions;
 
 namespace Micro.Seraph.AspNetCore.Api.Actions.Sample
 {

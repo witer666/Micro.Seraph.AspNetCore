@@ -11,7 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Micro.Seraph.AspNetCore.Actions\Micro.Seraph.AspNetCore.Actions.csproj" />
     <ProjectReference Include="..\Micro.Seraph.AspNetCore.Common\Micro.Seraph.AspNetCore.Common.csproj" />
+    <ProjectReference Include="..\Micro.Seraph.AspNetCore.Controllers\Micro.Seraph.AspNetCore.Controllers.csproj" />
     <ProjectReference Include="..\Micro.Seraph.AspNetCore.Entity\Micro.Seraph.AspNetCore.Entity.csproj" />
     <ProjectReference Include="..\Micro.Seraph.AspNetCore.Service\Micro.Seraph.AspNetCore.Service.csproj" />
   </ItemGroup>
