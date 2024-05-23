@@ -15,7 +15,7 @@ Micro.Seraph.AspNetCore旨在实现Asp.Net Web Api微框架。框架结合ASP.NE
 
 ---
 
-![c1269d16-77b2-4c4e-b32c-ff337343b2ee](file:///C:/Users/linux/Pictures/Typedown/c1269d16-77b2-4c4e-b32c-ff337343b2ee.png)
+![c1269d16-77b2-4c4e-b32c-ff337343b2ee](https://github.com/witer666/Micro.Seraph.AspNetCore/blob/main/sample.png)
 
 # 版本更新
 
