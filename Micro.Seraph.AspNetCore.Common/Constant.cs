@@ -12,5 +12,10 @@ namespace Micro.Seraph.AspNetCore.Common
         /// Action命名空间前缀
         /// </summary>
         public const string ACTION_NAMESPACE_PREFIX = "Micro.Seraph.AspNetCore.Api.Actions";
+
+        /// <summary>
+        /// 数据模型验证命名空间
+        /// </summary>
+        public const string VALIDATION_NAMESPACE = "Micro.Seraph.AspNetCore.Entity";
     }
 }

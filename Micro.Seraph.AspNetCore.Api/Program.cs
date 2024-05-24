@@ -1,13 +1,14 @@
 using FluentValidation;
+using Micro.Seraph.AspNetCore.Common;
 using Micro.Seraph.AspNetCore.Entity;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
-//builder.Services.AddScoped<IValidator<SampleEntity>, SampleValidator>();
-builder.Services.AddValidatorsFromAssemblyContaining<SampleValidator>();
+builder.Services.AddValidatorsFromAssembly(Assembly.Load(Constant.VALIDATION_NAMESPACE));
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 var app = builder.Build();
