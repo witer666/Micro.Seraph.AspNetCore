@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+yw7YB8nS4iEa6uD9yIszNYlrTbLphQ2/uo/0zB/7mUEaUOKthB0fl7xWoR3EGSmG7AZWNcNtpzMlDV/wg6w2w==",
+  "dgSpecHash": "9aJoJWcquZM9VViy1X1KBUik3O89BpbBNCvX8N2vvGUYhADw1N8k5VVYTptf8lkdvwcHK5qLRhBBxnNNsX1TKw==",
   "success": true,
   "projectFilePath": "D:\\光子集成电路测试服务平台\\项目单测\\Micro.Seraph.AspNetCore\\Micro.Seraph.AspNetCore.Api\\Micro.Seraph.AspNetCore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\linux\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
+    "C:\\Users\\linux\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\linux\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\linux\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\linux\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",
     "C:\\Users\\linux\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",
     "C:\\Users\\linux\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.5\\k4os.compression.lz4.streams.1.3.5.nupkg.sha512",

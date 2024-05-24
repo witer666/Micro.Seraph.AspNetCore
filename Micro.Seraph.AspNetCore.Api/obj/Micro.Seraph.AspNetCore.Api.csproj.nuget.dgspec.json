@@ -338,6 +338,9 @@
             "projectReferences": {
               "D:\\光子集成电路测试服务平台\\项目单测\\Micro.Seraph.AspNetCore\\Micro.Seraph.AspNetCore.Common\\Micro.Seraph.AspNetCore.Common.csproj": {
                 "projectPath": "D:\\光子集成电路测试服务平台\\项目单测\\Micro.Seraph.AspNetCore\\Micro.Seraph.AspNetCore.Common\\Micro.Seraph.AspNetCore.Common.csproj"
+              },
+              "D:\\光子集成电路测试服务平台\\项目单测\\Micro.Seraph.AspNetCore\\Micro.Seraph.AspNetCore.Entity\\Micro.Seraph.AspNetCore.Entity.csproj": {
+                "projectPath": "D:\\光子集成电路测试服务平台\\项目单测\\Micro.Seraph.AspNetCore\\Micro.Seraph.AspNetCore.Entity\\Micro.Seraph.AspNetCore.Entity.csproj"
               }
             }
           }
@@ -357,6 +360,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
             "Microsoft.AspNetCore.Mvc": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -426,6 +433,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

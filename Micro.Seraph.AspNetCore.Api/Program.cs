@@ -1,11 +1,15 @@
+using FluentValidation;
+using Micro.Seraph.AspNetCore.Entity;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+//builder.Services.AddScoped<IValidator<SampleEntity>, SampleValidator>();
+builder.Services.AddValidatorsFromAssemblyContaining<SampleValidator>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

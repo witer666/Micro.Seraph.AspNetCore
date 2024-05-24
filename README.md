@@ -23,5 +23,6 @@ Micro.Seraph.AspNetCore旨在实现Asp.Net Web Api微框架。框架结合ASP.NE
 
 - 5月22日初次提交Micro.Seraph.AspNetCore Web Api框架。
 - 5月23日分离独立控制器和业务逻辑Actions层。
+- * 5月25日接入FluentValidation数据模型验证库。
 
 ---

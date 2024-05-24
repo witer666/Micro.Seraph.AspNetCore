@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FluentValidation;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,5 +11,14 @@ namespace Micro.Seraph.AspNetCore.Entity
     {
         public int Id { get; set; }
         public string Title { get; set; } = string.Empty;
+    }
+
+    public class SampleValidator : AbstractValidator<SampleEntity>
+    {
+        public SampleValidator()
+        {
+            RuleFor(x => x.Id).NotNull();
+            RuleFor(x => x.Title).Length(1, 255);
+        }
     }
 }

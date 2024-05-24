@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1oqfC1tx6dN2K2E7RXhHifPuh7KxwKG5j807Wkzv+T885zk10smbzlS0iWoSygbVrb3RYIpmhUhI/mkv7FLtRg==",
+  "dgSpecHash": "w6/Sl0M78p4+Pun0Nyukrg8mXmDzQEjSy6gTHQScLvi71VWRGRX4I/I5ek3JJTAJYW1d9+c1sI7LbcqhuY0brA==",
   "success": true,
   "projectFilePath": "D:\\光子集成电路测试服务平台\\项目单测\\Micro.Seraph.AspNetCore\\Micro.Seraph.AspNetCore.Controllers\\Micro.Seraph.AspNetCore.Controllers.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\linux\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\linux\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\linux\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\linux\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\linux\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\linux\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

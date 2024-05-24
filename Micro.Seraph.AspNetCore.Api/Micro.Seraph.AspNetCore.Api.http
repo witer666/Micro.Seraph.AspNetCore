@@ -1,6 +1,17 @@
-@Micro.Seraph.AspNetCore.Api_HostAddress = http://localhost:5183
+@Micro.Seraph.AspNetCore.Api_HostAddress = https://localhost:7208
 
-GET {{Micro.Seraph.AspNetCore.Api_HostAddress}}/weatherforecast/
-Accept: application/json
+PUT {{Micro.Seraph.AspNetCore.Api_HostAddress}}/sample/Add
+
+###
+
+PATCH {{Micro.Seraph.AspNetCore.Api_HostAddress}}/sample/Delete?intId=0
+
+###
+
+GET {{Micro.Seraph.AspNetCore.Api_HostAddress}}/sample/List
+
+###
+
+POST {{Micro.Seraph.AspNetCore.Api_HostAddress}}/sample/Update
 
 ###

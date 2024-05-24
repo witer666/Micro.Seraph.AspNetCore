@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aL5Aw8sGe3UsxSPXxYrIQ3Dlc7c9K1021AuBqo03VG6qW3yFHbfgXzXaExaxMA9D1qZq8y5I3b9kzxNyTXWJTw==",
+  "dgSpecHash": "6znrvnUv9ALSzEZBjfxjgp+gpQ70nrx1ffuYBBNPBUlpYZbdBKLEoxcCQor9tAVddjUQtEhZHaH0wR6RhE3gZQ==",
   "success": true,
   "projectFilePath": "D:\\光子集成电路测试服务平台\\项目单测\\Micro.Seraph.AspNetCore\\Micro.Seraph.AspNetCore.Entity\\Micro.Seraph.AspNetCore.Entity.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\linux\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\linux\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\linux\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\linux\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

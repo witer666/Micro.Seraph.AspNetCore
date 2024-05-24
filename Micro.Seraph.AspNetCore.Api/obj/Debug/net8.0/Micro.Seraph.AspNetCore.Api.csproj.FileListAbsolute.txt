@@ -79,3 +79,6 @@ D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Mic
 D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Api\obj\Debug\net8.0\Micro.Seraph.AspNetCore.Api.pdb
 D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Api\obj\Debug\net8.0\Micro.Seraph.AspNetCore.Api.genruntimeconfig.cache
 D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Api\obj\Debug\net8.0\ref\Micro.Seraph.AspNetCore.Api.dll
+D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\光子集成电路测试服务平台\项目单测\Micro.Seraph.AspNetCore\Micro.Seraph.AspNetCore.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

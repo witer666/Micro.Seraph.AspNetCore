@@ -7,11 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Micro.Seraph.AspNetCore.Common\Micro.Seraph.AspNetCore.Common.csproj" />
+    <ProjectReference Include="..\Micro.Seraph.AspNetCore.Entity\Micro.Seraph.AspNetCore.Entity.csproj" />
   </ItemGroup>
 
 </Project>
